@@ -23,9 +23,9 @@ If the 'Share' button is disabled, double-click on the preview image.
 
 <img src="press-join-on-phone.jpg" height="320" />
 
-### Step 6: Mute Phone Microphone and Speaker
+### Step 6: Mute Phone Microphone
 
-<img src="mute-microphone-and-speaker.jpg" height="320" />
+<img src="mute-microphone.jpg" height="320" />
 
 ### Step 7: Check Both Camera Views Are Visible in Call
 
