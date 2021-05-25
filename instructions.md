@@ -16,5 +16,5 @@ If the 'Share' button is disabled, double-click on the preview image.
 
 ### Your Page Should Look Like This
 
-<img src="infinite-recursion.jpg" height="320" />
+<img src="infite-recursion.jpg" height="320" />
 
