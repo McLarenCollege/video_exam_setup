@@ -19,13 +19,17 @@ If the 'Share' button is disabled, double-click on the preview image.
 
 <img src="infite-recursion.jpg" height="320" />
 
-### Step 5: Open the Link On Your Phone and Press 'Join'
+### Step 5: On Your Phone Open the Call Link and Press 'Join'
 
 <img src="press-join-on-phone.jpg" height="320" />
 
-### Step 5: Mute Phone Microphone and Speaker
+### Step 6: Mute Phone Microphone and Speaker
 
 <img src="mute-microphone-and-speaker.jpg" height="320" />
+
+### Step 7: Check Both Camera Views Are Visible in Call
+
+<img src="two-video-feeds.jpg" height="320" />
 
 
 
