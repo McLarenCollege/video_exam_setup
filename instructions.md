@@ -5,6 +5,16 @@ Check with the exam administrator for your video call link.  Each student has a 
 
 ### Step 2: On Your Laptop Click 'Join'
 
-
 <img src="desktop-join.jpg" height="320" />
+
+### Step 3: Click the 'Share Screen' Button
+<img src="click-share-screen.jpg" height="320" />
+
+### Step 4: Select 'Entire Screen'
+If the 'Share' button is disabled, double-click on the preview image.
+<img src="select-entire-screen.jpg" height="320" />
+
+### Your Page Should Look Like This
+
+<img src="infinite-recursion.jpg" height="320" />
 
