@@ -6,5 +6,5 @@ Check with the exam administrator for your video call link.  Each student has a 
 ### Step 2: On Your Laptop Click 'Join'
 
 
-<img src="https://mclarentimes.com/images/topSection_compressed.png" height="250" /><img src="https://mclarentimes.com/images/suggestion_compressed.png" height="450" style="padding-left:20px"/>
+<img src="desktop-join.jpg" height="250" />
 
