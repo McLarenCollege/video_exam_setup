@@ -12,9 +12,10 @@ Check with the exam administrator for your video call link.  Each student has a 
 
 ### Step 4: Select 'Entire Screen'
 If the 'Share' button is disabled, double-click on the preview image.
+
 <img src="select-entire-screen.jpg" height="320" />
 
-### Your Page Should Look Like This
+### Note: Your Page Should Now Look Like This
 
 <img src="infite-recursion.jpg" height="320" />
 
