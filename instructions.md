@@ -31,5 +31,11 @@ If the 'Share' button is disabled, double-click on the preview image.
 
 <img src="two-video-feeds.jpg" height="320" />
 
+### Step 8: Confirm Corret Setup with Exam Administrator
+
+Send a Discord message to ask if your call is set up correctly.  Once confirmed, you can begin the exam questions.  After you finish, just close the call browser tab on your laptop and phone.
+
+
+
 
 
