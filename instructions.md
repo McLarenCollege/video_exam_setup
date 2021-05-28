@@ -2,7 +2,7 @@
 
 ### Step 1: Initial Setup
 * Ensure your laptop and phone are fully charged. Connect your laptop to a power socket, and connect your phone to a power bank if you have one.
-* Check the correct phone camera position as [shown in this video](https://studio.youtube.com/video/b9Y_takbF5s/edit)
+* Check the correct phone camera position as [shown in this video](https://youtu.be/b9Y_takbF5s)
 * If you have a second monitor, turn it off
 * Disable Ad-blocking and browser extensions on your laptop
 
