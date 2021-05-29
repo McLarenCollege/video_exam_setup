@@ -22,7 +22,7 @@ Check with the exam administrator for your video call link.
 
 ### Step 6: Select 'Entire Screen'
 
-<img src="select-entire-screen.jpg" height="320" />
+<img src="select-entire-screen-share-button.jpg" height="320" />
 
 ### Note: Your Page Should Now Look Like This
 
