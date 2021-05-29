@@ -15,26 +15,26 @@ Check with the exam administrator for your video call link.
 
 ### Step 4: Open the Link On Your Laptop and Click 'Join'
 
-<img src="desktop-join.jpg" height="320" />
+<img src="desktop-join.jpg" height="280" />
 
 ### Step 5: Click the 'Share Screen' Button and Share Entire Screen
 <img src="click-share-screen.jpg" height="280" /> <img src="select-entire-screen-share-button.jpg" height="280" />
 
 ### Note: Your Page Should Now Look Like This
 
-<img src="infite-recursion.jpg" height="320" />
+<img src="infite-recursion.jpg" height="280" />
 
 ### Step 6: On Your Phone Open the Call Link and Press 'Join'
 
-<img src="press-join-on-phone.jpg" height="320" />
+<img src="press-join-on-phone.jpg" height="280" />
 
 ### Step 7: Mute Phone Microphone
 
-<img src="mute-microphone.jpg" height="320" />
+<img src="mute-microphone.jpg" height="280" />
 
 ### Step 8: Check Both Camera Views Are Visible in Call
 
-<img src="two-video-feeds.jpg" height="320" />
+<img src="two-video-feeds.jpg" height="280" />
 
 ### Step 9: Confirm Corret Setup with Exam Administrator
 
