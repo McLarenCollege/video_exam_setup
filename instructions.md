@@ -21,7 +21,6 @@ Check with the exam administrator for your video call link.
 <img src="click-share-screen.jpg" height="320" />
 
 ### Step 6: Select 'Entire Screen'
-If the 'Share' button is disabled, double-click on the preview image.
 
 <img src="select-entire-screen.jpg" height="320" />
 
