@@ -17,30 +17,26 @@ Check with the exam administrator for your video call link.
 
 <img src="desktop-join.jpg" height="320" />
 
-### Step 5: Click the 'Share Screen' Button
-<img src="click-share-screen.jpg" height="320" />
-
-### Step 6: Select 'Entire Screen'
-
-<img src="select-entire-screen-share-button.jpg" height="320" />
+### Step 5: Click the 'Share Screen' Button and Share Entire Screen
+<img src="click-share-screen.jpg" height="280" /> <img src="select-entire-screen-share-button.jpg" height="280" />
 
 ### Note: Your Page Should Now Look Like This
 
 <img src="infite-recursion.jpg" height="320" />
 
-### Step 7: On Your Phone Open the Call Link and Press 'Join'
+### Step 6: On Your Phone Open the Call Link and Press 'Join'
 
 <img src="press-join-on-phone.jpg" height="320" />
 
-### Step 8: Mute Phone Microphone
+### Step 7: Mute Phone Microphone
 
 <img src="mute-microphone.jpg" height="320" />
 
-### Step 9: Check Both Camera Views Are Visible in Call
+### Step 8: Check Both Camera Views Are Visible in Call
 
 <img src="two-video-feeds.jpg" height="320" />
 
-### Step 10: Confirm Corret Setup with Exam Administrator
+### Step 9: Confirm Corret Setup with Exam Administrator
 
 Send a Discord message to ask if your call is set up correctly.  Once confirmed, you can begin the exam questions.  After you finish, just close the call browser tab on your laptop and phone.
 
