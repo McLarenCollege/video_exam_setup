@@ -6,7 +6,7 @@
 * If you have a second monitor, turn it off
 * Disable Ad-blocking and browser extensions on your laptop
 
-### Step 2: Connect to Discord Audio Channel
+### Step 2: Connect to Discord Audio Channel or turn on notifications for Discord
 
 <img src="discord-audio.png" height="480" />
 
